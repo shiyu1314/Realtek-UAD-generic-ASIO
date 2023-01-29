@@ -1,4 +1,4 @@
-# -Realtek-UAD-generic-ASIO
+# Realtek-UAD-generic-ASIO
 
 禁用驱动签名命令
  
