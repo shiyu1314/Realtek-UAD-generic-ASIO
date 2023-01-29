@@ -1,6 +1,7 @@
 # -Realtek-UAD-generic-ASIO
 
 禁用驱动签名命令
+ 
  bcdedit -set loadoptions DISABLE_INTEGRITY_CHECKS
  
  bcdedit -set TESTSIGNING ON
